@@ -14,7 +14,7 @@
     longitude = 0.000;
 
     private_key = "";
-    role = "repeater";
+    role = "room_server";
 
     tx_delay_direct = 0.1999999;
 
